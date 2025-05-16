@@ -81,8 +81,8 @@ SUBREDDIT_GROUPS = {
     ]
 }
 
-# API rotation and throttling
-API_KEYS_COUNT = 4
+# API 
+API_KEYS_COUNT = 1
 RATE_LIMIT_BUFFER = 100
 RATE_LIMIT_PAUSE = 60
 
