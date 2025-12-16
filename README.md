@@ -150,7 +150,7 @@ If you use this notebook or derived artefacts in academic work, cite the thesis:
 
 ```bibtex
 @phdthesis{dogan_reddit_virality,
-  title  = {Early Multimodal Prediction of Cross-Lingual Meme Virality on Reddit},
+  title  = {Adaptive Sequential Reasoning: A Dual-Attention Architecture for Multimodal Virality Prediction},
   author = {Dogan, Sedat},
   school = {University of Hull},
   year   = {2025}
