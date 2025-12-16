@@ -1,4 +1,4 @@
-# Reddit Meme Virality Data
+# Early Meme Virality Prediction
 
 Notebook-based analysis for a time-series Reddit meme dataset. It covers dataset inspection, virality target construction, multimodal feature engineering, and modelling experiments (classical baselines, deep baselines, and a dual-attention model).
 
